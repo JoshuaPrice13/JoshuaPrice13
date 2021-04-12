@@ -1,0 +1,5 @@
+-  Hi, I’m Joshua Price!
+-  I’m interested in software dev.
+-  I’m currently learning Javascript.
+-  I’m looking to collaborate on C# or Webdev projects.
+-  My email is jprice2335@gmail.com
