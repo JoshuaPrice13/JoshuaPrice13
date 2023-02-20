@@ -1,5 +1,6 @@
 -  Hi, I’m Joshua Price!
+-  I attend Oklahoma State University.
 -  I’m interested in software dev.
--  I’m currently learning Javascript.
--  I’m looking to collaborate on C# or Webdev projects.
--  My email is jprice2335@gmail.com
+-  I’m currently learning Java.
+-  I’m looking to collaborate on C# projects.
+-  My email is cowboyprice13@gmail.com
