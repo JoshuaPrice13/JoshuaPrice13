@@ -1,5 +1,7 @@
--  Hi, I’m Joshua Price!
--  I attend Oklahoma State University.
--  I’m interested in software dev.
--  I’m looking to collaborate on C# projects.
--  My email is cowboyprice13@gmail.com
+{
+  "name": "Joshua Price",
+  "bio": "Computer Science Senior @ Oklahoma State | Class of 2025",
+  "focus": "Aspiring Software Developer",
+  "interests": "DevOps, 3D mathematics, Software Engineering",
+  "currently": "Building AI-Powered Finance Tracker Desktop App"
+}
