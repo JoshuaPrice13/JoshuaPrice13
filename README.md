@@ -2,8 +2,8 @@
 {
   "name": "Joshua Price",
   "bio": "Computer Science Senior @ Oklahoma State | Class of 2026",
-  "focus": "Aspiring Software Developer",
+  "focus": "Software Developer",
   "interests": "DevOps, 3D mathematics, Software Engineering",
-  "currently": "Building AI-Powered Finance Tracker Desktop App"
+  "currently": "Creating AI-Powered Education WebApp"
 }
 ```
